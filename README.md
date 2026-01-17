@@ -1,89 +1,91 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Salman+Faris;Python+Full+Stack+Developer;Backend+Wizard+%26+React+Dev&font=Fira+Code&center=true&width=500&height=50&color=FF6B6B&vCenter=true&pause=1000&size=30" alt="Salman Faris" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF6B6B,4ECDC4,45B7D1,96CEB4&height=200&section=header&text=&fontSize=90" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Muhammed+Salman+Faris&font=Montserrat&weight=900&center=true&width=900&height=70&color=FFFFFF&vCenter=true&pause=10000&size=55" alt="Muhammed Salman Faris" />
+  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Full+Stack+Developer;Backend+Wizard+%26+React+Dev;Building+Scalable+Systems...&font=Fira+Code&weight=500&center=true&width=900&height=40&color=FFFFFF&vCenter=true&pause=1000&size=22" alt="Python Developer" />
 </div>
-
----
 
 ## 🎯 **About Me**
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td width="60%" valign="top">
-        <h2>👨‍💻 <span style="color: #FF6B6B">Hello World!</span></h2>
-        <p>
-          I'm a passionate <b>Python Full Stack Developer</b> from Kozhikode, crafting elegant solutions with <b>Django & React</b>. I transform complex problems into beautiful, scalable applications.
-        </p>
-        <br>
-        <div align="left">
-          <img src="https://img.shields.io/badge/⚡%20Django-Expert-FF6B6B?style=for-the-badge&logo=django&logoColor=white" />
-          <img src="https://img.shields.io/badge/🎯%20React-Specialist-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/🚀%20System-Design-45B7D1?style=for-the-badge&logo=prefect&logoColor=white" />
-          <img src="https://img.shields.io/badge/☁️%20Cloud-Enthusiast-96CEB4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-        </div>
-        <br>
-        <a href="https://linkedin.com/in/muhammed-salman-faris-a5792a361">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" />
-        </a>
-        <a href="mailto:mrsalmanxzs@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=social&logo=gmail" />
-        </a>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 20px;" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<p>
+  I am a passionate <strong>Python Full Stack Developer</strong> from Kozhikode. I specialize in building scalable web applications and crafting robust backends using <code>Django</code> & <code>React</code>.
+</p>
+
+<p>
+  I transform complex problems into beautiful, scalable applications with clean code and modern architecture.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-Expert-FF6B6B?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Pro-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Developer-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-State_Manager-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/System_Design-Architect-45B7D1?style=flat-square&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Ready-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammed-salman-faris-a5792a361">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mrsalmanxzs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br clear="all">
 
 ---
 
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <h3 style="color: #FF6B6B;">🐍 Backend</h3>
-        <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres&theme=dark" />
-      </td>
-      <td align="center">
-        <h3 style="color: #4ECDC4;">⚡ Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux&theme=dark" />
-      </td>
-      <td align="center">
-        <h3 style="color: #45B7D1;">☁️ DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=docker,aws,git,linux&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B6B&height=40&section=header&text=Backend%20Magic&fontSize=20&fontColor=ffffff" width="200" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres&theme=dark" style="margin-top: 10px;" />
+  
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4ECDC4&height=40&section=header&text=Frontend%20Art&fontSize=20&fontColor=ffffff" width="200" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux&theme=dark" style="margin-top: 10px;" />
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=45B7D1&height=40&section=header&text=Cloud%20&%20DevOps&fontSize=20&fontColor=ffffff" width="200" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux&theme=dark" style="margin-top: 10px;" />
+
+</div>
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <table align="center" style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=salman1113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=CDD6F7" height="180" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=salman1113&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <br><br>
+
+  <table border="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=salman1113&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=CDD6F7&count_private=true" height="170" />
       </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman1113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=CDD6F7&langs_count=8" height="180" />
+      <td style="border: none; padding-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman1113&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=CDD6F7&langs_count=6" height="170" />
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman1113&theme=tokyonight&hide_border=true&background=0D1117&stroke=96CEB4&ring=96CEB4&fire=FF6B6B&currStreakNum=CDD6F7&sideNums=4ECDC4&currStreakLabel=96CEB4&sideLabels=45B7D1" width="85%" />
-</div>
 
----
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman1113&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakNum=CDD6F7&sideNums=CDD6F7&currStreakLabel=4ECDC4&sideLabels=4ECDC4" width="90%" />
+
+</div>
 
 ## 🌟 **Recent Activity**
 
@@ -97,7 +99,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF6B6B,4ECDC4,45B7D1,96CEB4&height=120&section=footer" width="100%"/>
-  <p style="margin-top: -60px; color: white;">
-    "First, solve the problem. Then, write the code."
-  </p>
 </div>
